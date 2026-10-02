@@ -3,7 +3,8 @@
   "id": "e9a90c71-845e-4e2c-a6af-1128a7921d93",
   "teaches": "GNU Make: From Shell Script to Makefile",
   "depends_on": [
-    "05e99c97-2969-45b9-b955-5b5a62a0786e"
+    "05e99c97-2969-45b9-b955-5b5a62a0786e",
+    "5ae3c504-9947-49d3-9dd5-1ac6f9b22a7b"
   ],
   "author": "Stephan Bökelmann",
   "first_used": "2026-10-01",
